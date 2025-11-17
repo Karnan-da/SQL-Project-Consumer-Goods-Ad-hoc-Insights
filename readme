@@ -27,3 +27,25 @@ The goal of this project is to:
 4. Built clear, concise visuals to communicate insights effectively.
 
 ## Project Structure
+├── data/
+│ └── atliq_hardware_db.sql
+├── documents/
+│ └── ad-hoc-requests.pdf
+├── sql/
+│ └── ad_hoc_queries.sql
+├── powerbi/
+│ └── Atliq_Adhoc_Insights.pbix
+└── README.md
+
+## Deliverables
+- SQL solutions for all ten ad-hoc business questions
+- Power BI report with interactive dashboards
+- Key observations and insights derived from the analysis
+
+## Outcome
+This project demonstrates:
+- Strong SQL querying skills
+- Ability to interpret consumer goods domain data
+- Effective communication of insights using Power BI
+- End-to-end problem-solving for real business use cases
+
