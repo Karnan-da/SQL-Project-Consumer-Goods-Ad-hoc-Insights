@@ -21,31 +21,39 @@ The goal of this project is to:
 - Version Control: GitHub
 
 ## Approach
-1. Imported the SQL dump file into MySQL and reviewed the database structure.
-2. Wrote SQL queries to answer all ten ad-hoc requests.
-3. Exported query results into Power BI.
+1. Imported the SQL dump file into MySQL and reviewed the database structure.  
+2. Wrote SQL queries to answer all ten ad-hoc requests.  
+3. Exported query results into Power BI.  
 4. Built clear, concise visuals to communicate insights effectively.
 
 ## Project Structure
-├── data/
-│ └── atliq_hardware_db.sql
-├── documents/
-│ └── ad-hoc-requests.pdf
-├── sql/
-│ └── ad_hoc_queries.sql
-├── powerbi/
-│ └── Atliq_Adhoc_Insights.pbix
-└── README.md
+```
+Consumer-Goods-Adhoc-Insights/
+data/
+    atliq_hardware_db.sql
+documents/
+    ad-hoc-requests.pdf
+sql/
+    solutions_to_Data_analysis.sql
+presentation/
+    Project_presentation.pdf
+README.md
+```
+
+
+
+
+
 
 ## Deliverables
-- SQL solutions for all ten ad-hoc business questions
-- Power BI report with interactive dashboards
-- Key observations and insights derived from the analysis
+- SQL solutions for all ten ad-hoc business questions  
+- Presentation-ready visuals created for stakeholders  
+- Key observations and insights derived from the analysis  
+
 
 ## Outcome
 This project demonstrates:
-- Strong SQL querying skills
-- Ability to interpret consumer goods domain data
-- Effective communication of insights using Power BI
-- End-to-end problem-solving for real business use cases
+- Strong SQL querying skills  
+- Ability to interpret consumer goods domain data  
+- Effective communication of insights using Power BI  
 
